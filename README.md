@@ -5,7 +5,7 @@
 
 <img src="preview.png"/>
 
-## Was is it about?
+## What is it about?
 
 This is a side-project from 2016, a very simple bot/assistant for todos and reminders on-the-fly. 
 The main idea was to have a single chat-UI in which todos and reminders can be created by sending messages to the bot e.g. "todo call Tom" and the bot would interact with the user by replying accordingly e.g. "todo has been saved". Like the previous example all other actions can be perfomed via command-like messages (see below features).
